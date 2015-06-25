@@ -1,0 +1,45 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1600x900 60Hz; virtual: 2752x900 at -1152,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\System.dll (this message is harmless)
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\isdleuc\Documents\6month\test1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1280x720 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
