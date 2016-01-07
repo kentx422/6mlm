@@ -21,7 +21,8 @@ UI上のボタンを注視することで，選択することができる．
 
 ## Demo
 
-[![write](http://img.youtube.com/vi/Op5xyvNrfpg/0.jpg)](https://www.youtube.com/watch?v=Op5xyvNrfpg)
+[![present](http://img.youtube.com/vi/NefiSxb4yAQ/0.jpg)](https://www.youtube.com/watch?v=NefiSxb4yAQ)
+
 画像をクリックするとYoutubeに飛びます
 
 ##Equipment
